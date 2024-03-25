@@ -24,7 +24,7 @@ function Navbar() {
               <FaTelegram />
             </a> */}
             <a
-              href="https://x.com/dogegalaxy_"
+              href="https://twitter.com/ecodogeso"
               target="_blank"
               className=" text-2xl text-[#000000]"
             >
