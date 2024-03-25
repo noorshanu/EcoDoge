@@ -35,7 +35,7 @@ function Hero() {
                 DexTools
               </a>
               <a
-                href="https://twitter.com/ecodogeso"
+                href="https://t.me/ecodoges"
                 target="_blank"
                 className="font-groot-one text-2xl uppercase text-black bg-[#769120] border-2 border-[#000000] py-2 px-6 rounded-full"
               >
