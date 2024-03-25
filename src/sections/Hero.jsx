@@ -19,23 +19,23 @@ function Hero() {
             CONTRACT ADDRESS
             </p>
             <a
-              href="https://solscan.io/token/tHgCBc2iRxDSTEnLCKFCSHSN371gkntQ1LemB3TjbVt"
+              href="https://solscan.io/token/5Ko8JGMVUjX8JZZE2TYamuwfeU1YVAiRu6nMxqrJH9Ag"
               target="_blank"
               className=" font-groot-two text-xs sm:text-xl text-center my-4 flex items-center justify-center bg-[#ffb22e] py-2 px-4 rounded-full "
             >
-              tHgCBc2iRxDSTEnLCKFCSHSN371gkntQ1LemB3TjbVt
+              5Ko8JGMVUjX8JZZE2TYamuwfeU1YVAiRu6nMxqrJH9Ag
             </a>
 
             <div className=" flex justify-center gap-4 items-center">
               <a
-                href="https://www.dextools.io/app/en/solana/pair-explorer/7b9oeHvP5XJdtW2UroERk1LxEBunVWbhXudWxwfBBdqM?t=1711275078363"
+                href="https://www.dextools.io/app/en/solana/pair-explorer/3iJqs8VtMMcs2M69LaaYb8LBSBS8uKCZRhoXwm1uGswd?t=1711341532225"
                 target="_blank"
                 className="font-groot-one text-2xl uppercase text-black bg-[#769120] border-2 border-[#000000] py-2 px-6 rounded-full"
               >
                 DexTools
               </a>
               <a
-                href="https://t.me/dogegalaxys"
+                href="https://t.me/ecodoges"
                 target="_blank"
                 className="font-groot-one text-2xl uppercase text-black bg-[#769120] border-2 border-[#000000] py-2 px-6 rounded-full"
               >
